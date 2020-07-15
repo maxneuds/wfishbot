@@ -1,0 +1,5 @@
+classes = 2
+train = /content/fish-yolo/train.txt
+valid = /content/fish-yolo/val.txt
+names = /content/fish-yolo/classes.txt
+backup = /content/backup

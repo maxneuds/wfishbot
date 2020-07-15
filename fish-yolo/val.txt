@@ -1,0 +1,6 @@
+/content/fish-yolo/val/fish_calm_034.png
+/content/fish-yolo/val/fish_calm_066.png
+/content/fish-yolo/val/fish_calm_083.png
+/content/fish-yolo/val/fish_catch_046.png
+/content/fish-yolo/val/fish_catch_137.png
+/content/fish-yolo/val/fish_catch_155.png
